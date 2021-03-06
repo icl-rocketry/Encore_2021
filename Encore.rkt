@@ -84,7 +84,7 @@
                             <KnownMass>117.0</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
-                            <Name>GoPro bay</Name>
+                            <Name>GoPro</Name>
                             <KnownCG>35.0</KnownCG>
                             <UseKnownCG>1</UseKnownCG>
                             <Xb>35.0</Xb>
@@ -125,7 +125,7 @@
                             <KnownMass>100.0</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
-                            <Name>GoPro bay</Name>
+                            <Name>GoPro Bay</Name>
                             <KnownCG>32.0</KnownCG>
                             <UseKnownCG>1</UseKnownCG>
                             <Xb>32.0</Xb>
